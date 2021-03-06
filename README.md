@@ -1,2 +1,2 @@
 # jsp-spring-boot-example
-Examples implemented with spring boot, jsp, bootstrap 5
+Examples implemented with spring boot, security, jsp, bootstrap 5
